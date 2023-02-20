@@ -1,0 +1,3 @@
+- name: Roboshop Setup
+  ansible.builtin.debug:
+    msg: Hello from catalouge
